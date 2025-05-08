@@ -1,0 +1,11 @@
+/my-website
+│-- index.html
+│-- about.html
+│-- contact.html
+│-- styles.css
+│-- script.js
+│-- images/
+│   │-- banner.jpg
+│   │-- slider1.jpg
+│   │-- slider2.jpg
+│   │-- slider3.jpg
